@@ -1,2 +1,2 @@
 kraken repo local
-este es un ejemplo de commit con kraken
+este es un ejemplo de commit con kraken ...
